@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T21:31:47.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.2" etag="UyyEEX3zAeI0hPkJx3YW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T22:24:53.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cdD58tETlBzD5j1mby9E" version="23.1.2" type="github">
   <diagram name="Page-1" id="uhBtODdIhM4pIbooZ917">
-    <mxGraphModel>
+    <mxGraphModel dx="963" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yfl5XLdnhVJWAjlE_Zt0-2" value="Instagram&lt;br&gt;MVP:&amp;nbsp; Post photo, comment on post, follow/unfollow, like/unlike posts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yfl5XLdnhVJWAjlE_Zt0-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yfl5XLdnhVJWAjlE_Zt0-4" value="Posts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yfl5XLdnhVJWAjlE_Zt0-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yfl5XLdnhVJWAjlE_Zt0-6" value="Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yfl5XLdnhVJWAjlE_Zt0-7" value="{&lt;br&gt;id: string -&amp;gt; use hex code or&amp;nbsp;&lt;br&gt;imageUrl: string&lt;br&gt;&lt;br&gt;}" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
